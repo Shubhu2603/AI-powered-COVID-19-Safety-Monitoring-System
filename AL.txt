@@ -1,0 +1,10 @@
+PyQt5-GUI
+sqlite-DB
+os-file operations
+tensorflow-Model Training
+numpy-Maths
+imutils-Video/Image Processing
+keras-Model training
+opencv-Video processing
+scipy-scientific and mathematical operations
+matplotlib-plotting
